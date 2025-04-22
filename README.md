@@ -49,7 +49,7 @@ streamlit run app.py
 ---
 
 ## 📸 Screenshots
-![Advance Math Solver](./MCQ-gererator-Demo1.png)
+![Advance Math Solver](./Adv-math-demo1.png)
 
 ---
 
