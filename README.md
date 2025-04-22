@@ -50,6 +50,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 ![Advance Math Solver](./Adv-math-demo1.png)
+![Advance Math Solver](./Adv-math-demo2.png)
 
 ---
 
