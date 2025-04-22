@@ -1,7 +1,7 @@
 # 📘 EasyStep Math
 
 **EasyStep Math** is a friendly AI-powered math assistant built with Streamlit and Langchain, designed to help users solve math problems step-by-step with clear explanations and LaTeX formatting.
-/n test app here :- https://advance-math-solver-ritesh.streamlit.app/
+test app here :- https://advance-math-solver-ritesh.streamlit.app/
 
 ---
 
